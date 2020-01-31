@@ -1,0 +1,9 @@
+{
+  "name": "test-lint-staged-berry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "lint-staged": "^10.0.7"
+  }
+}
