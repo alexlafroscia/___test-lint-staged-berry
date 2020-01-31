@@ -670,6 +670,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/lint-staged-npm-10.0.7-b01253a176-1.zip/node_modules/lint-staged/",
           "packageDependencies": [
             ["lint-staged", "npm:10.0.7"],
+            ["any-observable", "npm:0.3.0"],
             ["chalk", "npm:3.0.0"],
             ["commander", "npm:4.1.0"],
             ["cosmiconfig", "npm:6.0.0"],
